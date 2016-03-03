@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Hello World" default="dist">
+
+<tstamp>
+	<format property="dist.date"  pattern="yyyyMMdd"/>
+</tstamp>
+
+	<target name="dist" >
+		<echo message="task eseguito il ${dist.date}"/>
+	</target>
+
+</project>
+
