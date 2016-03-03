@@ -6,6 +6,10 @@
 </tstamp>
 
 	<target name="dist" >
+		<zip destfile="../dist/ICS_${ic_version}_${dist.date}.zip" update="true">
+				<zipfileset dir="./src" prefix="sources"/>
+		</zip>
+		
 		<echo message="task eseguito il ${dist.date}"/>
 	</target>
 
