@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="Hello World feature 3" default="dist">
+<project name="Hello World fix 1" default="dist">
 
 <tstamp>
 	<format property="dist.date"  pattern="yyyyMMdd"/>
