@@ -1,2 +1,6 @@
 sdds
+<<<<<<< HEAD
 ddfdfdd
+=======
+ddfdfdffdfd
+>>>>>>> feature/feature_3
